@@ -13,3 +13,6 @@ Ensure that there are not a large amount of changes present in the staging area.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches allow for development to take place outside of the main flow. It allows for tests to be run or feature fixes to be tested before implamentation. Branches allow for code to be changed safely without impacting the main production code.
 
+How do the diagrams help you visualize the branch structure?
+They can show the relationships between the master branch and the rest of the projects branches.
+
