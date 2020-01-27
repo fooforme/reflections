@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git begins to track all file/folder changes.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is where files that are ready to be added to the repository are placed. The working directory is the location of the 'base' files and the original location of project files.
+
