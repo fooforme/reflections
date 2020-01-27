@@ -16,3 +16,6 @@ Branches allow for development to take place outside of the main flow. It allows
 How do the diagrams help you visualize the branch structure?
 They can show the relationships between the master branch and the rest of the projects branches.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+the result is the changes are combined into one fileset.
+
