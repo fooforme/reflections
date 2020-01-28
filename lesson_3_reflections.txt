@@ -9,3 +9,6 @@ Forks are copies of a fileset directly on Github
 Clones are pulling a copy of a remote fileset -> to a local machine
 Branches are isolated and tagged, development timelines that do not effect one another
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Being able to run log and diff to view the changes and from other commits.
+
