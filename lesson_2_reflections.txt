@@ -19,3 +19,6 @@ They can show the relationships between the master branch and the rest of the pr
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 the result is the changes are combined into one fileset.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Very helpful with straight forward merging, saves a lot of time. Can be tricky to read code changes if they are long or complex.
+
