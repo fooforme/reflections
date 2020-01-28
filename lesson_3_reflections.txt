@@ -4,3 +4,8 @@ Remotes are useful for backups and also when working with other team members.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 There are times when your codebase is not ready for new additions locally, an auto pull could create bugs.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are copies of a fileset directly on Github
+Clones are pulling a copy of a remote fileset -> to a local machine
+Branches are isolated and tagged, development timelines that do not effect one another
+
