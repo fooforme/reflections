@@ -15,3 +15,7 @@ Being able to run log and diff to view the changes and from other commits.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 To collaborate w/o git/hub, you would need to keep redundant sets of fies and the communication would be very difficult when files begin to be updated.
 
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+When testing or adding a new feature and proposing it be added to the master branch. This allows all contributors to preview changes.
+
